@@ -1,0 +1,20 @@
+JOB_ID,JOB_TITLE,MIN_SALARY,MAX_SALARY,AVG_SALARY
+AD_PRES,President,20080,40000,24000
+AD_VP,Administration Vice President,15000,30000,17000
+AD_ASST,Administration Assistant,3000,6000,4400
+FI_MGR,Finance Manager,8200,16000,12008
+FI_ACCOUNT,Accountant,4200,9000,7920
+AC_MGR,Accounting Manager,8200,16000,12008
+AC_ACCOUNT,Public Accountant,4200,9000,8300
+SA_MAN,Sales Manager,10000,20080,12200
+SA_REP,Sales Representative,6000,12008,8350
+PU_MAN,Purchasing Manager,8000,15000,11000
+PU_CLERK,Purchasing Clerk,2500,5500,2780
+ST_MAN,Stock Manager,5500,8500,7280
+ST_CLERK,Stock Clerk,2008,5000,2785
+SH_CLERK,Shipping Clerk,2500,5500,3215
+IT_PROG,Programmer,4000,10000,5760
+MK_MAN,Marketing Manager,9000,15000,13000
+MK_REP,Marketing Representative,4000,9000,6000
+HR_REP,Human Resources Representative,4000,9000,6500
+PR_REP,Public Relations Representative,4500,10500,10000
