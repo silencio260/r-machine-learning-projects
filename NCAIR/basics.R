@@ -73,12 +73,25 @@ matrix(c(m,
          names(stock.google.prices)), nrow = 4)
 
 
+google <- c(450, 451, 452, 445, 468)
+microsoft <- c(230, 231, 232, 236, 225)
+stock2 <- c(google, microsoft)
+
+stock2 <- matrix(stock2, byrow = TRUE, nrow = 2 )
+stock2
 
 
+days <- c('Mon', 'Tue', 'Wed', 'Thu', 'Fri')
+stock2.names <- c('Goog', 'Msft')
+colnames(stock2) <- days
+rownames(stock2) <- stock2.names
+stock2
 
+facebook <- c(450, 451, 452, 445, 468)
+stock2 <- rbind(stock2, facebook)
 
+stock2
 
-
-
+rowMeans(stock2)
 
 
